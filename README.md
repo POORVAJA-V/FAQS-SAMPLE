@@ -19,6 +19,6 @@ In this project, let's build a **Faqs App**
 </details>
 
 
-**WEBSITE LINK : **
+**WEBSITE LINK :**
 
 https://FAQReactApp.ccbp.tech
